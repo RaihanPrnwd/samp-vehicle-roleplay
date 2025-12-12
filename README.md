@@ -1,5 +1,6 @@
 # vehicle-RP.inc
-
+[![License: Freeware Creditware](https://img.shields.io/badge/license-Freeware%20Creditware-brightgreen.svg?style=flat-square)]()
+[![Author](https://img.shields.io/badge/Author-Raihan%20Purnawadi-blue.svg?style=flat-square)](https://github.com/RaihanPrnwd)
 **Versi Roleplay Vehicle System untuk SA-MP (PAWN)**  
 oleh Raihan Purnawadi
 
